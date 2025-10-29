@@ -1,0 +1,7 @@
+body {
+  background-image: url("./assets/webb-dark.png");
+  background-repeat: repeat;
+  background-size: auto;
+  color: white;
+  font-family: monospace;
+}
